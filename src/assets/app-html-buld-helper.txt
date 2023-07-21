@@ -1,0 +1,44 @@
+:root
+  <div.b-card>
+
+    <div.profile-frame>
+      <img.profile-frame>
+      </img.profile-pic>
+    </div.profile-frame>
+    
+    <div.card-body>
+      <div.card-body-header>
+        <h1.name />
+        <h3.role />
+        <a.website />
+        <div.card-buttons>
+          <button.email-button|.header-button />
+          <button.linkedin-button|.header-button />
+        </div.card-butons>
+      </div.card-body-header>
+      
+
+      <div.card-body-content>
+
+        <div.card-about>
+          <h2.about-title />
+          <p.about-content />
+        </div.card-about>
+
+        <div.card-interests>
+          <h2.interests-title />
+          <p.interests-content />
+        </div.card-interests>
+
+      </div.card-body-content>
+
+    </div.card-body>
+    
+    <div.card-footer>
+        <a.footer-button />
+        <a.footer-button />
+        <a.footer-button />
+        <a.footer-button />
+    </div.card-footer>
+
+  </ div.b-card>
