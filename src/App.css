@@ -159,10 +159,20 @@ h1 {
 }
 
 .card-footer{
+  display: flex;
   align-self: flex-end;
   background-color: #161619;
   width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 8.2%;
+  column-gap: 3vh;
 }
+.card-footer > a:hover {
+  transform: translateY(-0.2vh);
+  transition-duration: 300ms;
+}
+
 /* 
 My CSS Attr classes 
 */

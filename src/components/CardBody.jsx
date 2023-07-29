@@ -19,7 +19,7 @@ export default function CardBody(){
                     <button className="email-button header-button">
                         <img src={emailIcon}/> e-mail
                     </button>
-                    <button className="linkedin-button header-button">
+                    <button className="linkedin-button header-button" onClick={() => goToLink('https://www.linkedin.com/in/gabriel-flou/')}>
                         <img src={linkedinIcon}/> Linkedin
                     </button>
                 </div>
@@ -44,4 +44,8 @@ export default function CardBody(){
             </div>
         </div>
     )
+}
+
+function goToLink(link){
+    window.location.href=link;
 }
