@@ -172,6 +172,9 @@ h1 {
   transform: translateY(-0.2vh);
   transition-duration: 300ms;
 }
+.card-footer > a > img {
+  height: 3.3vh;
+}
 
 /* 
 My CSS Attr classes 
