@@ -1,7 +1,7 @@
 # Digital Business Card Project
 ## 1st Scrimba Learn React Course Solo Project
 
-[`Access the Card ➡️`
+[`Access the Card ➡️`<br><br>
 ![](https://i.ibb.co/wMmDFn0/image.png)](https://flou-ainan.github.io/scrimba-learn-react-first-project/)
 
 ### Further Explanation
